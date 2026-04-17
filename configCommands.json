@@ -4,7 +4,7 @@
     "weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
     "goatbotApikey": ""
   },
-  "envCommands": {Bot
+  "envCommands": {
     "daily": {
       "rewardFirstDay": {
         "coin": 100,
