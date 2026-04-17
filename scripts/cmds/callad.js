@@ -3,7 +3,7 @@ const mediaTypes = ["photo", 'png', "animated_image", "video", "audio"];
 
 module.exports = {
 	config: {
-		name: "Bby",
+		name: "Callad",
 		version: "1.7",
 		author: "Shishir",
 		countDown: 5,
